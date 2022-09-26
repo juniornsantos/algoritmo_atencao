@@ -1,0 +1,1 @@
+;algoritmo_atencao -> teste com vinte e uma opcoes
