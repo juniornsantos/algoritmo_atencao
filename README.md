@@ -12,6 +12,7 @@ Crie uma variavel do tipo lista com 21 (vinte e um) itens, no momento esses iten
 ```
 Pegamos a lista criada acima e dividimos em tres colunas, ambas com sete(óbvio)🤯 e lembrando que obrigatoriamente tem que ser divisível por três.
 <p>E em seguida perguntamos ao usuario em qual linha o número se encontra.
+
 LINHA   | NUMEROS
 --------- | ------
 Linha A | 79 123 45 10 13 63 19
