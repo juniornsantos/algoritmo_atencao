@@ -29,14 +29,22 @@ Linha A | 79 10 19 8 17 88 35
 Linha B | 123 13 2 1 25 9 18
 Linha C | 45 63 5 98 3 12 101
 ```sh
-2° pergunta, qual linha o numero está: c
+2° pergunta, qual linha o numero está: C
 ```
 
+LINHA   | NUMEROS
+--------- | ------
+Linha A | 79 8 35 5 12 13 25
+Linha B | 10 17 45 98 101 2 9
+Linha C | 19 88 63 3 123 1 18
+```sh
+3° pergunta, qual linha o numero está: B
+```
 
-### Modo de uso e retorno
+### RESPOSTA DO ALGORITMO
 
 ```sh
-
+O NUMERO QUE VOCE PENSOU FOI O 98
 ```
 
 ## Support
