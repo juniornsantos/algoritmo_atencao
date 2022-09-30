@@ -1,14 +1,14 @@
 # Algoritimo de adivinhação em Lisp/Common Lisp
 Esta é a versão 1.0.0 de um algoritimo que 'advinha' o número que o usuário está pensando em Lisp e em de código aberto.
-Funciona semelhante aos "Algoritimos do Instagram, Tiktok ..." com apenas três entradas ou cliques o sistema sabe o que você está interessado e direciona conteudos para voce.
+Funciona semelhante aos "Algoritmos do Instagram, Tiktok ..." com apenas três entradas ou cliques o algoritmo sabe o que você está interessado e direciona conteudos para voce.
 Então vamos chama-lo de "aknator de pobre". Caso tenha LISP instalada no seu desktop você pode executar no prompt do seu windows.
 
-## Remover ultimo item de uma lista
-Esta função funciona semelhante ao popped no JavaScript removendo o ultimo item de uma lista.
-Está e a função:
+## Como usa-lo
+Crie uma variavel do tipo lista com 21 (vinte e um) itens, no momento esses itens devem ser numeros.
+Você pode definir os numeros que quiser, Exemplo abaixo:
 
 ```go
-
+(setq alt (list 79 123 45 10 13 63 19 2 5 8 1 98 17 25 3 88 9 12 35 18 101))
 ```
 ### Modo de uso e retorno
 
