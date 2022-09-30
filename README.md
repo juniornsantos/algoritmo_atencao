@@ -5,11 +5,23 @@ Então vamos chama-lo de "aknator de pobre". Caso tenha LISP instalada no seu de
 
 ## Funcionamento
 Crie uma variavel do tipo lista com 21 (vinte e um) itens, no momento esses itens devem ser numeros.
-<p>Você pode definir os numeros que quiser, Exemplo abaixo:
+<br />Você pode definir os numeros que quiser, Exemplo abaixo:
 
 ```go
 (setq alt (list 79 123 45 10 13 63 19 2 5 8 1 98 17 25 3 88 9 12 35 18 101))
 ```
+Pegamos a lista de numeros e dividimos em tres colunas, lembrando que obrigatoriamento tem que divisível por três (3).
+<br />E em seguida perguntamos ao usuario em qual linha o número se encontra.
+Linha A   | Numeros
+--------- | ------
+Linha A | 79 123 45 10 13 63 19
+Linha B | 2 5 8 1 98 17 25
+Linha C | 3 88 9 12 35 18 101
+
+```go
+1° pergunta, qual linha o numero está: B
+```
+
 ### Modo de uso e retorno
 
 ```sh
