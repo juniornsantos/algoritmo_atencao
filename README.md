@@ -1,7 +1,7 @@
 # Algoritimo de adivinhação em Lisp/Common Lisp
 Esta é a versão 1.0.0 de um algoritimo que 'advinha' o número que o usuário está pensando em Lisp e em de código aberto.
-Funciona semelhante aos "Algoritimos do Instagram, Tiktok ...", quem com apenas três entradas ou cliques o sistema sabe o que você está interessado
-Então vamos chama-lo de "aknator de pobre" caso tenha LISP instalada no seu desktop você pode executar no prompt do seu windows.
+Funciona semelhante aos "Algoritimos do Instagram, Tiktok ..." com apenas três entradas ou cliques o sistema sabe o que você está interessado e direciona conteudos para voce.
+Então vamos chama-lo de "aknator de pobre". Caso tenha LISP instalada no seu desktop você pode executar no prompt do seu windows.
 
 ## Remover ultimo item de uma lista
 Esta função funciona semelhante ao popped no JavaScript removendo o ultimo item de uma lista.
