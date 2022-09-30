@@ -47,8 +47,13 @@ Linha C | 19 88 63 3 123 1 18
 O NUMERO QUE VOCE PENSOU FOI O 98
 ```
 
-#### Preview
-!![snackbar](https://github.com/juniornsantos/three_entries/blob/main/Capturar.PNG)
+#### EXEMPLO NO PROMPT
+![snackbar](https://github.com/juniornsantos/three_entries/blob/main/Capturar.PNG)
+
+### DETALHAMENTO DO FUNCIONAMENTO
+```sh
+    VOU ADICIONAR AQUI DEPOIS ... POREM VOCE PODE OLHAR O CODIGO FONTE.
+```
 
 ## Support
 Você pode obter suporte da comunidade por meio de:
