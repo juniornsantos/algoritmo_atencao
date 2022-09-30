@@ -11,17 +11,25 @@ Crie uma variavel do tipo lista com 21 (vinte e um) itens, no momento esses iten
 (setq alt (list 79 123 45 10 13 63 19 2 5 8 1 98 17 25 3 88 9 12 35 18 101))
 ```
 Pegamos a lista criada acima e dividimos em tres colunas, ambas com sete(óbvio)🤯 e lembrando que obrigatoriamente tem que ser divisível por três.
-<br />E em seguida perguntamos ao usuario em qual linha o número se encontra.
-Linha A   | Numeros
+<p>E em seguida perguntamos ao usuario em qual linha o número se encontra.
+LINHA   | NUMEROS
 --------- | ------
 Linha A | 79 123 45 10 13 63 19
 Linha B | 2 5 8 1 98 17 25
 Linha C | 3 88 9 12 35 18 101
-
-```go
+```sh
 1° pergunta, qual linha o numero está: B
 ```
+Repetimos o processo mais duas vezes.
 
+LINHA   | NUMEROS
+--------- | ------
+Linha A | 79 10 19 8 17 88 35
+Linha B | 123 13 2 1 25 9 18
+Linha C | 45 63 5 98 3 12 101
+```sh
+2° pergunta, qual linha o numero está: c
+```
 
 
 ### Modo de uso e retorno
