@@ -10,7 +10,7 @@ Crie uma variavel do tipo lista com 21 (vinte e um) itens, no momento esses iten
 ```go
 (setq alt (list 79 123 45 10 13 63 19 2 5 8 1 98 17 25 3 88 9 12 35 18 101))
 ```
-Pegamos a lista de numeros e dividimos em tres colunas, lembrando que obrigatoriamento tem que divisível por três .
+Pegamos a lista criada acima e dividimos em tres colunas, ambas com sete(óbvio)🤯 e lembrando que obrigatoriamente tem que ser divisível por três.
 <br />E em seguida perguntamos ao usuario em qual linha o número se encontra.
 Linha A   | Numeros
 --------- | ------
