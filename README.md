@@ -41,11 +41,13 @@ Linha C | 19 88 63 3 123 1 18
 3° pergunta, qual linha o numero está: B
 ```
 
-### RESPOSTA DO ALGORITMO
+#### RESPOSTA DO ALGORITMO
 
 ```sh
 O NUMERO QUE VOCE PENSOU FOI O 98
 ```
+#### Preview
+!![snackbar](https://github.com/juniornsantos/Flutter_cronometro/blob/main/git_cron.gif)
 
 ## Support
 Você pode obter suporte da comunidade por meio de:
