@@ -1,5 +1,5 @@
-# Algoritimo de atenção em Lisp/Autolisp/Common Lisp
-Esta é uma biblioteca de funções lisp/Autolisp/Common Lisp em de código aberto, Funciona como um serviço 
+# Algoritimo de adivinhação em Lisp/Autolisp/Common Lisp
+Esta é a versão 1.0.0 de um algoritimo que 'advinha' o numero que voce está pensando em Lisp em de código aberto, Funciona como um serviço 
 que você pode executar em qualquer lugar.
 
 ## Remover ultimo item de uma lista
