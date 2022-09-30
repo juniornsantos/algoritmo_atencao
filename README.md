@@ -46,8 +46,9 @@ Linha C | 19 88 63 3 123 1 18
 ```sh
 O NUMERO QUE VOCE PENSOU FOI O 98
 ```
+
 #### Preview
-!![snackbar](https://github.com/juniornsantos/Flutter_cronometro/blob/main/git_cron.gif)
+!![snackbar](https://github.com/juniornsantos/three_entries/blob/main/Capturar.PNG)
 
 ## Support
 Você pode obter suporte da comunidade por meio de:
