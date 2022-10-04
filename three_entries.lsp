@@ -1,6 +1,9 @@
 ;;primeira versão do algoritimo de atenção, tomando atenção com 21 possibilidades
 (defun c:three_entries ( )
-  (setq alt '(79 123 45 10 13 63 19 2 5 8 1 98 17 25 3 88 9 12 35 18 101)) ;; defina os numeros aleatorios
+(setq alt '(79 123 45 10 13 63 19 2 5 8 1 98 17 25 3 88 9 12 35 18 101)) ;; defina os numeros aleatorios
+  ;(setq alt '(1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2)) ;; defina os numeros aleatorios
+
+  
   (setq div (LM:group<n alt 7));; so dividindo lista em tres de 7  
   (setq str (mapcar '(lambda ( x ) (mapcar 'itoa x) ) div))  
   (prompt "\nPENSE EM UM NUMERO E DIGITE EM QUAL LINHA ESTÁ")(princ)
